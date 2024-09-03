@@ -23,13 +23,6 @@
     </main>
     <footer>
         <nav>
-            <a href="https://github.com">GitHub</a>
-            <a href="https://linkedin.com">LinkedIn</a>
-            <a href="https://twitter.com">Twitter</a>
-        </nav>
-    </footer>
-</body>
-</html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
